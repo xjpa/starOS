@@ -1,0 +1,11 @@
+build/
+
+*.o
+
+*.bin
+*.elf
+
+*~
+*.tmp
+
+.DS_Store
