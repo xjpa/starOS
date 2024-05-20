@@ -1,8 +1,12 @@
-building an OS from scratch
+learning how to build an OS from scratch
 
-named after [our family doggo](https://xjpa.github.io/star/)
+building one named after [our family doggo](https://xjpa.github.io/star/)
 
 why? to learn
+
+specifically: learn assembly, C, understand systems programming better, get a good solid foundation.
+
+And finally it's to have a long term project I can dedicate to and learn from
 
 # screenshot
 
