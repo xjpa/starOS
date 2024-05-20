@@ -4,6 +4,10 @@ named after [our family doggo](https://xjpa.github.io/star/)
 
 why? to learn
 
+# screenshot
+
+![](hello.png)
+
 # instructions
 
 1. compile bootloader with nasm
