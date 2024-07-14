@@ -23,6 +23,13 @@ And finally it's to have a long term project I can dedicate to and learn from
 
 going forward, i ought to create a makefile for that
 
+update:
+
+```bash
+$ make
+$ make run
+```
+
 # star
 
 ![](star.jpeg)
